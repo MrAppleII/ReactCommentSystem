@@ -1,6 +1,10 @@
 import React, { Component } from "react";
 import styled from "styled-components"
+/*
 
+    This the little profile photo that shows up in the corner of the comments. 
+
+*/
 class ProfilePhoto extends Component {
   render() {
     return (
